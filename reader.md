@@ -1,0 +1,1 @@
+导入demo项目，运行，使用postman请求localhost:6606/equiment/uploadFile?providerId=5，在body处，上传模板文件，即可
